@@ -60,4 +60,7 @@ public class SpaceInvaders {
         return this.vaisseau != null;
     }
 
+    public void deplacerVaisseauVersLaDroite() {
+    }
+
 }
