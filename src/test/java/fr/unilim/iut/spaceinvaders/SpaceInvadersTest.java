@@ -36,7 +36,7 @@ public class SpaceInvadersTest {
     @Test
 	public void test_unNouveauVaisseauEstCorrectementPositionneDansEspaceJeu() {
 		spaceinvaders.positionnerUnNouveauVaisseau(7,9);
-		assertEquals("" + 
+		assertEquals("" +
 		"...............\n" + 
 		"...............\n" +
 		"...............\n" + 
