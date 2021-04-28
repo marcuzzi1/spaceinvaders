@@ -14,4 +14,8 @@ public class Vaisseau {
         return this.x == x && this.y == y;
     }
 
+    public void seDeplacerVersLaDroite() {
+        this.x += 1;
+    }
+
 }
