@@ -44,7 +44,7 @@ public class SpaceInvadersTest {
 		"...............\n" + 
 		"...............\n" + 
 		"...............\n" + 
-		"..........v....\n" + 
+		"..........V....\n" + 
 		"...............\n" + 
 		"...............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
 	}
@@ -85,9 +85,9 @@ public class SpaceInvadersTest {
 		"...............\n" + 
 		"...............\n" + 
 		"...............\n" + 
+		"...........V...\n" + 
 		"...............\n" + 
-		"...............\n" + 
-		"..........V....\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
+		"...............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
     }
 
     @Test
@@ -104,7 +104,7 @@ public class SpaceInvadersTest {
 		"...............\n" + 
 		"...............\n" + 
 		"...............\n" + 
-		"..............V\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
+		"...............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
 	}
 
 }
