@@ -1,12 +1,9 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][https://github.com/marcuzzi1/spaceinvaders/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/marcuzzi1/spaceinvaders/network/members]
+[![Stargazers][stars-shield]][https://github.com/marcuzzi1/spaceinvaders/stargazers]
+[![Issues][issues-shield]][https://github.com/marcuzzi1/spaceinvaders/issues]
 
-<p align="center">
-    <h1>Space Invaders</h1>
-</p>
+<h1>Space Invaders</h1>
 
 >Bienvenue sur mon repertoire de TDD sur le projet Space Invaders. Vous trouverez les fichiers essentiels pour la compilation et l'exécution, puis à la fin du projet un fichier release en .jar
 
