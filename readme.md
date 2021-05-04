@@ -1,7 +1,7 @@
-[![Contributors][:contributors-shield:]]["https://github.com/marcuzzi1/spaceinvaders/graphs/contributors"]
-[![Forks][:forks-shield:]]["https://github.com/marcuzzi1/spaceinvaders/network/members"]
-[![Stargazers][:stars-shield:]]["https://github.com/marcuzzi1/spaceinvaders/stargazers"]
-[![Issues][:issues-shield:]]["https://github.com/marcuzzi1/spaceinvaders/issues"]
+<a href='https://github.com/github-username/reponame/graphs/contributors'>
+<img src='https://opencollective.com/reponame/contributors.svg?width=890' />
+</a>
+
 
 <h1>Space Invaders</h1>
 
