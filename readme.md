@@ -1,7 +1,4 @@
-<a href='https://github.com/github-username/reponame/graphs/contributors'>
-<img src='https://opencollective.com/reponame/contributors.svg?width=890' />
-</a>
-
+![Work](https://img.shields.io/badge/Work%20%3A-in%20progress-blue)
 
 <h1>Space Invaders</h1>
 
