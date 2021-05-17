@@ -23,8 +23,8 @@ public class SpaceInvaders {
 
     public String recupererEspaceJeuDansChaineASCII() {
         StringBuilder espaceDeJeu = new StringBuilder();
-        for (int x = 0; x < hauteur; x++) {
-            for (int y = 0; y < longueur; y++) {
+        for (int y = 0; y < hauteur; y++) {
+            for (int x = 0; x < longueur; x++) {
                 espaceDeJeu.append(recupererMarqueDeLaPosition(x, y));
             }
             espaceDeJeu.append(MARQUE_FIN_LIGNE);
@@ -61,7 +61,7 @@ public class SpaceInvaders {
     }
 
     public void deplacerVaisseauVersLaDroite() {
-        this.vaisseau.seDeplacerVersLaDroite();
+        if (vaisseau.getX() < (this.longueur - 1)) this.vaisseau.seDeplacerVersLaDroite();
     }
 
 }

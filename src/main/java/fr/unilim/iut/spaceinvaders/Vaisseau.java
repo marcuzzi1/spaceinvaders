@@ -18,4 +18,8 @@ public class Vaisseau {
         this.x += 1;
     }
 
+    public int getX() {
+        return this.x;
+    }
+
 }
