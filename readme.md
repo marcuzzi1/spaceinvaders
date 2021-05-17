@@ -11,9 +11,7 @@
 > Critères d'acceptance : 
 > - L'espace de jeu doit avoir une dimension donnée 
 > - L'espace de jeu doit être vide lors de sa création
-
 > Modifications personnelles :
 > - J'ai modifié l'ordre x et y des coordonnées pour correspondre à une valeur classique abscisse/ordonnée
-
 > Respect des critères : 
 > Le code respecte les critères donnés, La story n°1 est terminée
