@@ -35,4 +35,4 @@
 
 <h2 id="cloud">Nuage de mots</h2>
 
-![wordCloud]("images/word_cloud.png")
+![wordCloud](images/word_cloud.png)
