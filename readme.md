@@ -5,9 +5,9 @@
 >Bienvenue sur mon repertoire de TDD sur le projet Space Invaders. Vous trouverez les fichiers essentiels pour la compilation et l'exécution, puis à la fin du projet un fichier release en .jar
 
 <h2>Sommaire</h2>
-    * <a href="#semaine1">Semaine n°1</a>
-    * <a href="#semaine2">Semaine n°2</a>
-    * <a href="#cloud">Nuage de mots</a>
+* <a href="#semaine1">Semaine n°1</a>
+* <a href="#semaine2">Semaine n°2</a>
+* <a href="#cloud">Nuage de mots</a>
 
 <h2 id="semaine1">Semaine n°1 : du 29/03/2021 au 03/04/2021</h2>
 
